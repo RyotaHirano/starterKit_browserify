@@ -1,3 +1,1 @@
-#
-
-### Demo
+# starterKit_browserify
