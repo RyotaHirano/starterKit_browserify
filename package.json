@@ -40,6 +40,7 @@
     "licensify": "^2.0.1",
     "require-dir": "^0.3.0",
     "run-sequence": "^1.1.4",
+    "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.6.1"
   },
   "license": "MIT"
